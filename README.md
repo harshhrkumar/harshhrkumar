@@ -1,6 +1,6 @@
-  <h1 align="center">Hi 👋, I'm Harsh Kumar</h1>
+<h1 align="center">Hi 👋, I'm Harsh Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<p align="centre"><img src="https://media.giphy.com/media/I7kMRW6mj4YtW/giphy.gif" alt="elliot"></p>
+<p align="center"><img src="https://media.giphy.com/media/I7kMRW6mj4YtW/giphy.gif" alt="elliot"></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshhrkumar&label=Profile%20views&color=0e75b6&style=flat" alt="harshhrkumar" /> </p>
 
